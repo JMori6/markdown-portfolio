@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Playing on my Nintendo Switch
+* Reding Rick Riordan's books
+* Hanging out with my friends
