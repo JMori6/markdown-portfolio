@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I think that coding is *super awesome* and really fun. When I first got my hands on Github I already had a **million** ideas racing through my head and I can't ***wait*** to progress with my coding class.
